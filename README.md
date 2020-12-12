@@ -1,2 +1,1 @@
-# thugjay.github.io
-anjay
+# javascript-balloon-popping-project
